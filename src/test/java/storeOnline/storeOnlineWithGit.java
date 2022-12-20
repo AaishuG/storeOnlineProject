@@ -3,8 +3,8 @@ package storeOnline;
 public class storeOnlineWithGit {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+System.out.println("storeOnline");
+System.out.println("storeOnline1");
 	}
 
 }
